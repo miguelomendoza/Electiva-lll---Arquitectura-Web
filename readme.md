@@ -1,5 +1,4 @@
 # Curriculum Vitae en HTML et CSS
-
-utilisation de Bootstrap
-
-Lien sur mon github
+Trabajo Practico nro 1 de Electiva lll
+ALUMNO: Miguel Angel Mendoza Olmedo
+CI:     5.028.491
